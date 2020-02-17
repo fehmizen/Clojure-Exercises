@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3690c414-c85d-4add-884b-847718911cb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DepsProjectDetails">
+    <option name="cachedModuleDetails">
+      <map>
+        <entry key="$PROJECT_DIR$/deps.edn">
+          <value>
+            <ModuleDetails>
+              <option name="details" value="{:paths [&quot;src&quot;], :deps {org.clojure/clojure {:mvn/version &quot;1.10.1&quot;}}, :aliases {:deps {:extra-deps {org.clojure/tools.deps.alpha {:mvn/version &quot;0.8.599&quot;}}}, :test {:extra-paths [&quot;test&quot;]}}, :mvn/repos {&quot;central&quot; {:url &quot;https://repo1.maven.org/maven2/&quot;}, &quot;clojars&quot; {:url &quot;https://repo.clojars.org/&quot;}}, :system-aliases #{:test :deps}, :deps-tree {org.clojure/clojure {:mvn/version &quot;1.10.1&quot;, :deps/manifest :mvn, :paths [&quot;/Users/fehmizen/.m2/repository/org/clojure/clojure/1.10.1/clojure-1.10.1.jar&quot;], :children (org.clojure/spec.alpha org.clojure/core.specs.alpha)}, org.clojure/spec.alpha {:mvn/version &quot;0.2.176&quot;, :deps/manifest :mvn, :paths [&quot;/Users/fehmizen/.m2/repository/org/clojure/spec.alpha/0.2.176/spec.alpha-0.2.176.jar&quot;], :dependents [org.clojure/clojure], :children ()}, org.clojure/core.specs.alpha {:mvn/version &quot;0.2.44&quot;, :deps/manifest :mvn, :paths [&quot;/Users/fehmizen/.m2/repository/org/clojure/core.specs.alpha/0.2.44/core.specs.alpha-0.2.44.jar&quot;], :dependents [org.clojure/clojure], :children ()}}, :test-paths [&quot;test&quot;]}" />
+              <option name="hash" value="6284a7ef503a52d4dc8e70e6e287df44" />
+            </ModuleDetails>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XEBXMaAc5EmCsp2ZlPZMo3Z54p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="cursive.last.file.extension./Users/fehmizen/Desktop/Assignment 1/src" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ReplState" timestamp="1580835877101">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.Unnamed">
+    <configuration name="Unnamed" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="Assignment 1" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="DEPS" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="Assignment 1" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="DEPS" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mishmash" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="Assignment 1" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="mishmash" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure Application.mishmash" />
+      <item itemvalue="Clojure REPL.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.mishmash" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3690c414-c85d-4add-884b-847718911cb0" name="Default Changelist" comment="" />
+      <created>1580601412189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580601412189</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" width="954" height="669" key="#Project_Structure" timestamp="1580601507150">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" width="954" height="669" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1580601507150" />
+    <state x="184" y="0" width="1071" height="900" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580602767757">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="0" width="1071" height="900" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580602767757" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1580835877087">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580835877087" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1580835877086">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580835877086" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1580835877086">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580835877086" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1580835877087">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580835877087" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1580787196751">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580787196751" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580601415978">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580601415978" />
+    <state x="325" y="196" width="789" height="676" key="search.everywhere.popup" timestamp="1580790360716">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="325" y="196" width="789" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580790360716" />
+  </component>
+</project>
