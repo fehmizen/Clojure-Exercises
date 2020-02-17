@@ -21,10 +21,9 @@
   (cond
     (or (= (second arg) "--help") (= (second arg) "-h")) (help ["help", "init"])
     (> (count arg) 1) "Error: init accepts no arguments\n"
-    :else (if (.isDirectory (io/file ".git"))
-            (print "Error: .git directory already exists\n")
+    :else (if (.isDirectory (io/file ".git")) "Error: .git directory already exists\n"
             (do (io/make-parents ".git/objects/sample.txt")
-                (print "Initialized empty Idiot repository in .git directory\n"))))
+                "Initialized empty Idiot repository in .git directory\n")))
   )
 
 (defn hash-object [arg]
