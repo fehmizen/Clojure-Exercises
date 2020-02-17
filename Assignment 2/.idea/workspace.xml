@@ -38,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="cursive.last.file.extension./Users/fehmizen/Desktop/Clojure Assignments/Assignment 2/src" value="clj" />
   </component>
-  <component name="ReplState" timestamp="1581981738298">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1581982384124">{:repl-history {:ide [], :local [], :remote []}}</component>
   <component name="RunManager">
     <configuration name="Unnamed" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" nameIsGenerated="true">
       <module name="Assignment 2" />
